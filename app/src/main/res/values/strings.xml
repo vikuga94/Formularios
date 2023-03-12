@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Formularios</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="Password">Password</string>
+    <string name="inicio">Inicio</string>
+    <string name="registrar">Registrar</string>
+    <string name="documento">Documento</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="guardar">Guardar</string>
+</resources>
